@@ -10,6 +10,7 @@ ul#album {
   height: auto;
   padding: 79px;
   margin-right: -68px;
+  scroll-behavior:
 }
 
 #text-family {
